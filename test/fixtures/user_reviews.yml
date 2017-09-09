@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  lodging: one
+  lodging_type: Lodging
+  comment: MyText
+  rating: 1
+
+two:
+  user_id: 1
+  lodging: two
+  lodging_type: Lodging
+  comment: MyText
+  rating: 1

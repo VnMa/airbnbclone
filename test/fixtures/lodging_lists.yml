@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyText
+  price: 1
+  cover_image: MyString
+  lodging: one
+
+two:
+  description: MyText
+  price: 1
+  cover_image: MyString
+  lodging: two

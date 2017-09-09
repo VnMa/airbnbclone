@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cover_image: MyString
+  title: MyString
+  user: one
+  room_type: MyString
+  guest_no: 1
+  bed_room: false
+  description: MyText
+  amenities: MyText
+  price: 1
+  weekly_discount: 1
+  monthly_discount: 1
+  house_rules: MyString
+  location: MyString
+
+two:
+  cover_image: MyString
+  title: MyString
+  user: two
+  room_type: MyString
+  guest_no: 1
+  bed_room: false
+  description: MyText
+  amenities: MyText
+  price: 1
+  weekly_discount: 1
+  monthly_discount: 1
+  house_rules: MyString
+  location: MyString
